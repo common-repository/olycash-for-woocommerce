@@ -1,0 +1,13 @@
+.order_details{
+    display: none !important;
+}
+
+.payment_method_wc_olycash_gateway img{
+    height: auto;
+    max-width: 100%;
+    display: inline-block;
+    border-radius: 3px;
+    width: 40%;
+    vertical-align: bottom;
+    background-color: transparent;
+}
